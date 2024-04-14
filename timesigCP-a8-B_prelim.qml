@@ -72,7 +72,7 @@ import QtQuick.Dialogs 1.2
 import QtQuick.Window 2.2
 import FileIO 3.0
  MuseScore {
-   menuPath: "Plugins.timesigCPa8" 
+   menuPath: "Plugins.timesigCPa8B" 
  
   description: "Time Sig copy/paste-overwrite 0.8"
   version: "0.8"
